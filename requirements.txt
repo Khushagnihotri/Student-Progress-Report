@@ -1,0 +1,6 @@
+Flask
+flask-cors
+joblib
+pandas
+python-dotenv
+scikit-learn
